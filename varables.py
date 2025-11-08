@@ -1,3 +1,19 @@
+# VARIABLES & DATA TYPES
+
+name = "John"      # string (text)
+age = 21           # integer (whole number)
+height = 1.75      # float (decimal number)
+is_student = True  # boolean (True/False)
+
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
+print("Student:", is_student)
+
+
+
+
+
 # 01_variables.py
 # Demonstrates variables, basic types, casting, and f-strings
 
