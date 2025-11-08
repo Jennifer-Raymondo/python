@@ -1,0 +1,11 @@
+# LOOPS
+
+# for loop (repeat 1 to 5)
+for i in range(1, 6):
+    print("Number:", i)
+
+# while loop (repeat until condition is false)
+count = 0
+while count < 3:
+    print("Count =", count)
+    count += 1
